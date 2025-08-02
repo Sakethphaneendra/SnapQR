@@ -1,8 +1,28 @@
-# React + Vite
+<h1 align="center">🚀 SnapQR</h1>
+<p align="center">
+  <b>Generate & Scan Instantly</b><br>
+  Sleek, modern, and lightning-fast QR Code tool to connect the world 🌍
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<hr>
 
-Currently, two official plugins are available:
+<h2>✨ Features</h2>
+<ul>
+  <li>🎨 <b>Generate QR Codes</b> instantly from text, links, or any input.</li>
+  <li>📁 <b>Scan from File</b> — Upload an image to decode its QR content.</li>
+  <li>🎥 <b>Scan via Webcam</b> — Real-time QR scanning using your camera.</li>
+  <li>⚡ <b>One-Click Copy & Download</b> — Save or copy results instantly.</li>
+  <li>🌈 <b>Modern UI & Smooth Animations</b> with <b>Material UI + Framer Motion</b>.</li>
+  <li>🔒 <b>Lightweight & Secure</b> — Works locally, no data storage.</li>
+</ul>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🚀 Why SnapQR?</h2>
+<p>
+No more boring QR tools! SnapQR blends <b>performance, design, and functionality</b> with a modern look. 
+Perfect for students, developers, and professionals who need quick and reliable QR solutions.
+</p>
+
+<hr>
+
+<h3 align="center">💡 Developed with ❤️ by 
+<a href="https://www.linkedin.com/in/sakethphaneendra/" target="_blank">Saketh Phaneendra</a> | SnapQR 2025</h3>

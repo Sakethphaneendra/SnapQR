@@ -6,7 +6,7 @@
 
 <hr>
 
-<h2>✨ Features</h2>
+<h2>✨ Features</h2>   
 <ul>
   <li>🎨 <b>Generate QR Codes</b> instantly from text, links, or any input.</li>
   <li>📁 <b>Scan from File</b> — Upload an image to decode its QR content.</li>
